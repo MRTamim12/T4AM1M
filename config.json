@@ -17,27 +17,27 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100048281103451",
+    "100076339585458",
     ""
   ],
   "GOD": [
-    "100048281103451"
+    "100076339585458"
   ],
   "DEV": [
-    "100048281103451"
+    "100076339585458"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-"100048281103451"
+"100076339585458"
 ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "SaGor_bot",
+  "nickNameBot": "𝐓𝐀𝐌𝐈𝐌-𝐁𝐎𝐓__➍➋⓿😘😕🤖",
   "authorName": "ArYan 🐔",
   "authorFB": "https://www.facebook.com/aryan.xx.404",
   "authorEmail": "adriyanaryan4@gmail.com",
-  "prefix": "+",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
