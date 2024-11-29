@@ -17,27 +17,27 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100076339585458",
+    "100048281103451",
     ""
   ],
   "GOD": [
-    "100076339585458"
+    "100048281103451"
   ],
   "DEV": [
-    "100076339585458"
+    "100048281103451"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-"100076339585458"
+"100048281103451"
 ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐓𝐀𝐌𝐈𝐌-𝐁𝐎𝐓__➍➋⓿😘😕🤖",
-  "authorName": "TAMIM 🩵",
-  "authorFB": "https://www.facebook.com/brandtamim69",
-  "authorEmail": "",
-  "prefix": ".",
+  "nickNameBot": "SaGor_bot",
+  "authorName": "ArYan 🐔",
+  "authorFB": "https://www.facebook.com/aryan.xx.404",
+  "authorEmail": "adriyanaryan4@gmail.com",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -48,7 +48,7 @@
   "timeZone": "Asia/Dhaka",
   "credentials": {
     "gmailAccount": {
-      "email": "",
+      "email": "andylabaco@gmail.com",
       "clientId": "96871167660-5js0qjdlpr2mcd331kv5obpifev5j69r.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04qK_zxJkdK7RCgYIARAAGAQSNwF-L9IrZOdI4prCgpqvAoDEvn-HpuSugKxBTRNoGS37QwxfAWJUCehSKhdas26xOh-SjmdR4uw",
